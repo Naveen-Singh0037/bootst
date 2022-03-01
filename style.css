@@ -7,6 +7,11 @@
 *
 */
 /*  */
+/* @media (max-width: 634px) {
+  .carousel-item{
+    height: 10vh;
+}
+} */
 .video-background-holder {
   position: relative;
   background-color: rgb(0, 0, 0);
@@ -58,7 +63,7 @@ h1, p{
     color: black;
 }
 .carousel-item{
-    height: 50vh;
+    height: 40vh;
 }
 
 
